@@ -1,2 +1,14 @@
 # hth-playhub-resource
-HTML page archive and documentation
+
+HTML 资料页存档
+
+这里是自动发布页面的存放目录，用于集中维护生成结果。
+
+## 页面文件
+
+- 每个 HTML 文件可独立访问
+- 文件名称由发布任务生成
+
+## 维护记录
+
+后续发布会继续追加页面，已有文件不会在 README 中逐一列出。
